@@ -1,0 +1,2 @@
+# slide-front-nuxt
+ 
